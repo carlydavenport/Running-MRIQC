@@ -1,1 +1,1 @@
-# Running-MRIQC
+# Running_MRIQC
